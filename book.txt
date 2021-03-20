@@ -1,0 +1,5 @@
+3 BasicStatistics 0 11012019
+1 ArtificialIntelligence 1 05102019
+4 DataStructures 1 06112019
+5 Electronics 0 20032019
+2 AutomataTheory 1 01052019
